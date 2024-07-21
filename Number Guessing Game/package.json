@@ -1,0 +1,27 @@
+{
+  "name": "guess-a-numbnn24",
+  "version": "2.0.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@abdullah_js11/number-guessing-game": "^2.0.1",
+    "a4guess-a-number2nr": "^2.0.1",
+    "guess-a-number2nr": "^2.0.1",
+    "guess-a-numbnn24": "^2.0.1",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
